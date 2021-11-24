@@ -2,6 +2,7 @@
   "name": "Operamusic",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
+  "logo": "https://telegra.ph/file/75efde256bc0ef9e7fe4d.jpg",
   "repository": "https://github.com/aryanve595/eSportMusicX",
   "stack": "container",
   "env": {
